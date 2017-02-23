@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather Information</string>
+    <string name="enter_city_name">Enter the city name</string>
+    <string name="wind_title">Wind</string>
+    <string name="cloudiness_title">Cloudiness</string>
+    <string name="pressure_title">Pressure</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="rain_title">Rain</string>
+    <string name="sunrise_title">Sunrise</string>
+    <string name="sunset_title">Sunset</string>
+    <string name="geo_coordinates_title">Geo coordinates</string>
+    <string name="weather_in_city_title">Weather in</string>
+    <string name="snow_title">Snow</string>
+    <string name="last_updated_title_text">Last updated</string>
+    <string name="city_info_exists">Weather information exists</string>
+    <string name="last_know_location_warning">Location will be accessed once the permission is granted</string>
+    <string name="enable_gps">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="preference_file_key">Weather shared preference</string>
+
+</resources>
